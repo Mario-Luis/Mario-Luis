@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindos ao meu perfil 😁
+## welcome to my profile 😁
 
  <div>
    <a href="https://github.com/Mario-Luis">
