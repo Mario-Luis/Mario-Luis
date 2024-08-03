@@ -1,4 +1,3 @@
-## Bem-vindos ao meu perfil 😁
 ## welcome to my profile 😁
 
  <div>
